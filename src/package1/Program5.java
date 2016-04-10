@@ -1,4 +1,5 @@
 // Matt Bradford Train Yard Program
+//This program manages trains in a train yard.
 package package1;
 
 import java.util.ArrayList;
